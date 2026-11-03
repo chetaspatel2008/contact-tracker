@@ -1,4 +1,4 @@
-ContactTracker.command store the file to run the python file in the terminal
+ContactTracker.command store the command to run the python file in the terminal
 
 running while clicking directly the ContactTracker.command won't work cause 
 you have not given it the executive permission
